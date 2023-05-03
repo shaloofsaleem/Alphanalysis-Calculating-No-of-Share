@@ -1,0 +1,53 @@
+appdirs==1.4.4
+asttokens @ file:///opt/conda/conda-bld/asttokens_1646925590279/work
+backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
+beautifulsoup4==4.12.2
+certifi==2022.12.7
+cffi==1.15.1
+charset-normalizer==3.1.0
+comm @ file:///croot/comm_1671231121260/work
+cryptography==40.0.2
+debugpy @ file:///tmp/build/80754af9/debugpy_1637091799509/work
+decorator @ file:///opt/conda/conda-bld/decorator_1643638310831/work
+entrypoints @ file:///tmp/build/80754af9/entrypoints_1649926439650/work
+executing @ file:///opt/conda/conda-bld/executing_1646925071911/work
+frozendict==2.3.8
+html5lib==1.1
+idna==3.4
+ipykernel @ file:///croot/ipykernel_1671488378391/work
+ipython @ file:///croot/ipython_1674681422581/work
+jedi @ file:///tmp/build/80754af9/jedi_1644297102865/work
+jupyter-client @ file:///opt/conda/conda-bld/jupyter_client_1650622202839/work
+jupyter_core @ file:///croot/jupyter_core_1672332224593/work
+lxml==4.9.2
+matplotlib-inline @ file:///opt/conda/conda-bld/matplotlib-inline_1662014470464/work
+multitasking==0.0.11
+nest-asyncio @ file:///croot/nest-asyncio_1672387112409/work
+numpy==1.24.3
+packaging @ file:///croot/packaging_1671697413597/work
+pandas==2.0.1
+pandas-datareader==0.10.0
+parso @ file:///opt/conda/conda-bld/parso_1641458642106/work
+pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
+pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
+platformdirs @ file:///opt/conda/conda-bld/platformdirs_1662711380096/work
+prompt-toolkit @ file:///croot/prompt-toolkit_1672387306916/work
+psutil @ file:///tmp/build/80754af9/psutil_1612297992929/work
+ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
+pure-eval @ file:///opt/conda/conda-bld/pure_eval_1646925070566/work
+pycparser==2.21
+Pygments @ file:///opt/conda/conda-bld/pygments_1644249106324/work
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+pytz==2023.3
+pyzmq @ file:///tmp/build/80754af9/pyzmq_1638434985866/work
+requests==2.29.0
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+soupsieve==2.4.1
+stack-data @ file:///opt/conda/conda-bld/stack_data_1646927590127/work
+tornado @ file:///tmp/build/80754af9/tornado_1606942317143/work
+traitlets @ file:///croot/traitlets_1671143879854/work
+tzdata==2023.3
+urllib3==1.26.15
+wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
+webencodings==0.5.1
+yfinance==0.2.18
